@@ -1,17 +1,21 @@
 ### Anthony Rooyakkers
-**Web Developer · Brantford, Ontario**
+**Full-Stack Developer · Front-End Focused · Brantford, Ontario**
 
 I build clean, fast, responsive websites for small and local businesses.
+I have a full-stack background — server-side logic, REST APIs, and databases
+(MongoDB, MySQL) — and my current focus is front-end work with React and
+Tailwind CSS.
+
 I started out working with platforms like Shopify, Wix, and Squarespace, and
-I'm now building from scratch with React and Tailwind CSS.
+I'm now building custom from the ground up. Right now I'm shipping polished,
+real-world projects — including a custom salon website built from scratch, with
+the full process documented here commit by commit.
 
-Right now I'm focused on shipping polished, real-world projects — including a
-custom salon website built from the ground up, with the full process documented
-here commit by commit.
+**Front-end:** React · JavaScript · HTML · CSS · Tailwind CSS · Vite · Responsive design
+**Back-end:** Node.js · REST APIs · MongoDB · MySQL
+**Tools:** Git · GitHub
 
-**Working with:** React · JavaScript · HTML · CSS · Tailwind CSS · Git · Vite · Responsive design
-
-**Currently:** sharpening my front-end skills and pushing new work regularly.
+**Currently:** building front-end projects with React and sharpening my craft with every commit.
 
 📍 Brantford, ON
 ✉️ arooyakkers01@gmail.com
